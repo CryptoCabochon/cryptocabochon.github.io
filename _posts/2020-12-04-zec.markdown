@@ -1,19 +1,20 @@
 ---
 title:  "ZEC Cabochon"
-subtitle: "Introducing ZEC Cabochon, a Crypto x Art collaboration with artist J.N. Shinde and his Journey of life collection of paintings during the 1960s-80s in India.
+subtitle: "Crypto x Art collaboration with artist J.N. Shinde"
+author: ""
+image: "img/zec.jpg"
+date:   2012-12-04 12:34:56
+---
+
+Introducing ZEC Cabochon, a Crypto x Art collaboration with artist J.N. Shinde and his Journey of life collection of paintings during the 1960s-80s in India.
 The ZEC Cabochon is carefully assembled by engineering a 6061 aluminium alloy bar to hold an archival quality print of the painting behind a Plexiglas™ enclosure & a Zcash Sapling (zs…) private key inside an anodized plate that is locked for permanence. The back of the plate has the corresponding z-address public key engraved.
 
 Each 7 ZEC unit is engraved with Zebra pattern and the Zcash genesis block text. Both 7 ZEC & 21 ZEC Cabochons are anointed with a SWAROVSKI™ 1088 & 1028 XIRIUS CHATON Crystal in white & black diamond, yellow, light rose and fuschia colors on the top; sparkling the light of cryptographic value contained inside with a spring-steel locking mechanism.
 
 NOTE: The units are sold unloaded and do not contain any cryptocurrency. It is up to the buyer to send memo/value transactions to the artwork which is readable with the viewing key that is provided with each unit. See How do I use it? (below)
-For your privacy (and to enable interesting applications) the viewing key is not engraved. You can fund the ZEC Cabochon using the engraved public key, but only those privy to the viewing key (or the secret key locked inside) can determine the Zcash value held by the artwork."
-author: ""
-avatar: ""
-image: "img/zec.jpg"
-date:   2012-12-04 12:34:56
----
+For your privacy (and to enable interesting applications) the viewing key is not engraved. You can fund the ZEC Cabochon using the engraved public key, but only those privy to the viewing key (or the secret key locked inside) can determine the Zcash value held by the artwork.
 
-## The 7 ZEC denominated Crypto Cabochon:
+## The 7 ZEC denominated Crypto Cabochon
 
 Units in edition: 57
 
