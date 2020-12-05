@@ -1,7 +1,7 @@
 # Site settings
 title: Crypto Cabochon
 description: Cold Storage Crypto Art 
-keywords: crypto cabochon, crypto art, zcash, bch, ada, cardano
-author: nighthawk24/Adí
+keywords: cryptocabochon, cryptoart, zcash, bch, ada, cardano
+author: nighthawk24
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
