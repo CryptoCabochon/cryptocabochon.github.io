@@ -10,10 +10,10 @@ For your privacy (and to enable interesting applications) the viewing key is not
 author: ""
 avatar: ""
 image: "img/zec.jpg"
-date:   ZEC
+date:   2012-12-04 12:34:56
 ---
 
-### The 7 ZEC denominated Crypto Cabochon:
+## The 7 ZEC denominated Crypto Cabochon:
 
 Units in edition: 57
 
@@ -33,7 +33,7 @@ If a solution was found, a much better, easier, more convenient implementation o
 
 Zcash was born on October 28, 2016 by implementing innovations from zk-SNARK proofs on top of Bitcoin and maintaining the same 21 million cap for a sound monetary policy.
 
-### The 21 ZEC denominated Crypto Cabochon is titled "Temple of Idolism"
+## The 21 ZEC denominated Crypto Cabochon is titled "Temple of Idolism"
 
 Units in edition: 10
 
@@ -41,23 +41,23 @@ Look closely and you will see the details surrounding the wall with flowers in v
 
 The art has depth in texture and a mystical magic about it!
 
-### FAQs:
+## FAQs:
 
-## How much does it cost?
+### How much does it cost?
 The 21 ZEC marked CryptoCabochons are for sale for 21 ZEC each.
 The 7 ZEC marked CryptoCabochons are for sale for 7 ZEC each.
 Worldwide shipping & tracking (when possible) is included.
 
-## Q: Why is this not pre-funded?
+### Q: Why is this not pre-funded?
 Selling pre-funded art is problematic in the US (and Casascius was warned by FinCEN that it requires a money transmitter license).
 
 NOTE: There are no plans to change the price of the 7 or 21 ZEC Cabochons even if the market value of ZEC fluctuates. The units are priced for final sale.
 
-## How many units will be made?
+### How many units will be made?
 10# of 21 ZEC units & 57# of 7 ZEC units.
 All units will be marked with serial numbers and sold on a first-come-first-serve basis.
 
-## Who is it for?
+### Who is it for?
 Art collectors, ZEC whales/hodlers, and curious individuals who want to experiment with a locked up paper wallet.
 
 ## How do I place an order?
@@ -67,14 +67,14 @@ e.g. If you want to place order for 2 units of 7 ZEC Cabochon, Send a memo "2 x 
 
 e.g. If you want to place order for 1 unit of 7 ZEC & 1 unit of 21 ZEC(and ask artist to purge viewing key), Send a memo "1 x 7 ZEC (keep viewing key), 1 x 21 ZEC Cabochon (purge viewing key) for Akiara Ube, 9392-1146, Akasaka Akasakabizutawa(18-kai), Minato-ku, Tokyo, 107-6318 JAPAN +81 9038402790" along with value of 28 ZEC to zs1xm4mfqtgc3pewvlfzutr37707gtz8a4vmh27a85m3mgmrhtr0neugjz73e8uar4qj4ssjccwylf
 
-## How do I use it?
+### How do I use it?
 Each unit comes with a shielded public key engraved on the back of the unit and a viewing key on a paper.
 You can send Zcash(equal to the marking of 7 or 21 ZEC) to the shielded address and verify the funds have been received by the address by checking the viewing key.
 You could also use the CryptoCabochon as a memo note diary and keep sending messages to it over time, to pass it to your next generations!
 Zcash light client such as Zecwallet Lite (zecwallet.co) to import the viewing key
 You could treat it as a collectible art and put it in your showcase or lock it up and never ever look at it again! (except for the times to enjoy your precious treasure)
 
-## Who has access to the public keys, viewing keys and private keys?
+### Who has access to the public keys, viewing keys and private keys?
 Both Public Keys and Viewing Keys are known to the buyer and the artist (seller).
 You can send in a request(along with your order) to delete the artist's copy of the viewing key (which will primarily be used to know the number of units that are funded with ZEC and sharing that statistic at art exhibitions in the future).
 The only copy of the private key is present on the piece of paper inside the artwork, it starts with “secret-extended-key-main…” and is more than 200 characters long.
@@ -82,11 +82,11 @@ The 70-80 character code you see on the back of the ZEC Cabochon is the Shielded
 Zcash goes above and beyond other cryptocurrencies. With Zcash, you control what information you share. Shielded addresses and their associated balances are not visible on the blockchain. Only "viewing keys" can be used to share transaction details with trusted third parties for compliance or audits. There is a mathematical relationship between the shielded address and the private key inside. The Zcash is actually located on the public Zcash ledger which is decentralized across the internet and it is inaccessible to anyone unless the private key is imported into a compatible Zcash wallet software.
 
 
-## Who is behind this project and what is the motivation?
+### Who is behind this project and what is the motivation?
 @nighthawk24 from Nighthawk Wallet is behind this project https://twitter.com/nighthawk24/status/1301377224508092417?s=20
 The idea behind making the CryptoCabochon was the longing to have a physical object to hold cryptocurrency. Cassacius coins (https://en.bitcoin.it/wiki/Casascius_physical_bitcoins) for Bitcoin were famously sold loaded up with Bitcoin and since then there haven't been options for non-Bitcoin marked artwork. CryptoCabochon was made to bring the virtual world to the physical world with a touch of art.
 
-## Can I resell it?
+### Can I resell it?
 Yes, as a buyer, you have full rights to resell the CryptoCabochon you own.
 
 How do I know there are no copies of the private keys?
@@ -96,28 +96,28 @@ The private keys from the laptop have been deleted and the hard disk destroyed a
 No backups have been made and the only version of the private key is present on the paper inside the artwork.
 The units are sold unloaded and it is up to the sole discretion of the buyer to load the CryptoCabochon with ZEC.
 
-## How do I redeem the private keys?
+### How do I redeem the private keys?
 This step requires destroying the art to move the ZEC value out.
 The frame can be drilled to separate out the private key holder and the artwork.
 And then some more drilling out the rivets to separate the 2 plates that hold the private keys.
 Much care has been taken to design the unit such that it is almost impossible to put it back together if there are attempts made to open it. However, it is artwork, not a cold-storage vault, and thus the buyer should ensure reasonable physical security precautions.
 
-## Care instructions:
+### Care instructions:
 The ZEC Cabochon artwork is not water-proof and may be affected due to high-humidity when considering 250+ year plans. There have been numerous studies citing Black & White prints on Premium Glossy paper to last for 250-400 years at the minimum and the fact that the paper is locked inside an anodized compartment should slow down the process of oxidation inside. (https://www.epson.eu/how-epson-measures-print-speeds/print-permanence-rating)
 Store the CryptoCabochon in an air-tight/anti-corrosion bag(provided) for longevity.
 For the outside, clean with mild soap and soft cloth only, the chemical protectant on the plexiglass might get scratched due to repeated cleaning.
 
-## Recommendation for first time crypto art buyer:
+### Recommendation for first time crypto art buyer:
 Do not risk the majority of your savings in the artwork as this is an experiment,
 If you are still interested in owning one of the limited units, use it as a memo diary and send messages to it and use a Zcash light client such as Zecwallet Lite to import the viewing key to see & share the messages! (See website link for instructions)
 While noting that the only way to move the funds out is to break open the art and find the private key inside as long as the unit has been well cared for.
 
-## Recommendation for ZEC whales/hodlers:
+### Recommendation for ZEC whales/hodlers:
 Buy 2 units, one to load up 7 or 21 ZEC to lock it in storage and second one to sit at your desk to enjoy the art work and to send private z2z memos, knowing that every message will be stored on the Zcash blockchain forever! (and retrievable by the provided viewing key)
 
-## Recommendation for paranoid ZEC hodlers:
+### Recommendation for paranoid ZEC hodlers:
 Buy a 3rd unit just to break open and verify that a working private key does exist! Like the Cut-and-Choose Protocol! (Doing this means you don't trust the maker of the art so there's really no need to buy the art in the first place! Instead please let someone else own it!) This technique in cryptography is called cut-and-choose and is used a lot in multiparty computation. Crépeau C. (2005) Cut-and-choose protocol. In: van Tilborg H.C.A. (eds) Encyclopedia of Cryptography and Security. Springer, Boston, MA . https://doi.org/10.1007/0-387-23483-7_92
 
-### CAUTION:
+## CAUTION:
 Do not send ZEC to the artwork that you cannot afford to lose.
 CryptoCabochon is an experimental art project sold as a final sale without returns or warranty. Please ask away questions at z2z.to/CryptoCabochon or Twitter @CryptoCabochon
