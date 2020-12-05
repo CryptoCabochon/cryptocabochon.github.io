@@ -1,7 +1,6 @@
 ---
 title:  "ZEC Cabochon"
 subtitle: "Crypto x Art collaboration with artist J.N. Shinde"
-author: "nighthawk24"
 image: "img/zec.jpg"
 date:   2012-12-04 12:34:56
 ---
@@ -62,7 +61,7 @@ All units will be marked with serial numbers and sold on a first-come-first-serv
 Art collectors, ZEC whales/hodlers, and curious individuals who want to experiment with a locked up paper wallet.
 
 ## How do I place an order?
-Please send your alias, mailing address & phone number via a shielded memo to “zs1xm4mfqtgc3pewvlfzutr37707gtz8a4vmh27a85m3mgmrhtr0neugjz73e8uar4qj4ssjccwylf” along with 7 ZEC or 21 ZEC for the specific units to order. You will receive confirmation for your order within 48 hours or refund if the units are sold out. The availability of the ZEC Cabochons will be posted on the website. To obtain ZEC for making the purchase, see https://z.cash/exchanges/
+Please send your alias, mailing address & phone number via a shielded memo to “zs1xm4mfqtgc3pewvlfzutr37707gtz8a4vmh27a85m3mgmrhtr0neugjz73e8uar4qj4ssjccwylf” along with 7 ZEC or 21 ZEC for the specific units to order. You will receive confirmation for your order within 48 hours or refund if the units are sold out. The availability of the ZEC Cabochons will be posted on the website. To obtain ZEC for making the purchase, see [Zcash echanges](https://z.cash/exchanges/)
 
 e.g. If you want to place order for 2 units of 7 ZEC Cabochon, Send a memo "2 x 7 ZEC Cabochons for Markus Maximalus, 900 Boylston Ave, APT 101, Boston, MA 02115 USA +1 617 400 999" along with value of 14 ZEC to zs1xm4mfqtgc3pewvlfzutr37707gtz8a4vmh27a85m3mgmrhtr0neugjz73e8uar4qj4ssjccwylf
 
@@ -84,8 +83,8 @@ Zcash goes above and beyond other cryptocurrencies. With Zcash, you control what
 
 
 ### Who is behind this project and what is the motivation?
-@nighthawk24 from Nighthawk Wallet is behind this project https://twitter.com/nighthawk24/status/1301377224508092417?s=20
-The idea behind making the CryptoCabochon was the longing to have a physical object to hold cryptocurrency. Cassacius coins (https://en.bitcoin.it/wiki/Casascius_physical_bitcoins) for Bitcoin were famously sold loaded up with Bitcoin and since then there haven't been options for non-Bitcoin marked artwork. CryptoCabochon was made to bring the virtual world to the physical world with a touch of art.
+[@nighthawk24](https://twitter.com/nighthawk24) from Nighthawk Wallet is behind [CryptoCabochon](https://twitter.com/nighthawk24/status/1301377224508092417?s=20)
+The idea behind making the CryptoCabochon was the longing to have a physical object to hold cryptocurrency. [Cassacius coins](https://en.bitcoin.it/wiki/Casascius_physical_bitcoins) for Bitcoin were famously sold loaded up with Bitcoin and since then there haven't been options for non-Bitcoin marked artwork. CryptoCabochon was made to bring the virtual world to the physical world with a touch of art.
 
 ### Can I resell it?
 Yes, as a buyer, you have full rights to resell the CryptoCabochon you own.
@@ -104,7 +103,7 @@ And then some more drilling out the rivets to separate the 2 plates that hold th
 Much care has been taken to design the unit such that it is almost impossible to put it back together if there are attempts made to open it. However, it is artwork, not a cold-storage vault, and thus the buyer should ensure reasonable physical security precautions.
 
 ### Care instructions:
-The ZEC Cabochon artwork is not water-proof and may be affected due to high-humidity when considering 250+ year plans. There have been numerous studies citing Black & White prints on Premium Glossy paper to last for 250-400 years at the minimum and the fact that the paper is locked inside an anodized compartment should slow down the process of oxidation inside. (https://www.epson.eu/how-epson-measures-print-speeds/print-permanence-rating)
+The ZEC Cabochon artwork is not water-proof and may be affected due to high-humidity when considering 250+ year plans. There have been numerous studies citing Black & White prints on Premium Glossy paper to last for 250-400 years at the minimum and the fact that the paper is locked inside an anodized compartment should slow down the process of oxidation inside. [Source - Epson](https://www.epson.eu/how-epson-measures-print-speeds/print-permanence-rating)
 Store the CryptoCabochon in an air-tight/anti-corrosion bag(provided) for longevity.
 For the outside, clean with mild soap and soft cloth only, the chemical protectant on the plexiglass might get scratched due to repeated cleaning.
 
@@ -117,8 +116,8 @@ While noting that the only way to move the funds out is to break open the art an
 Buy 2 units, one to load up 7 or 21 ZEC to lock it in storage and second one to sit at your desk to enjoy the art work and to send private z2z memos, knowing that every message will be stored on the Zcash blockchain forever! (and retrievable by the provided viewing key)
 
 ### Recommendation for paranoid ZEC hodlers:
-Buy a 3rd unit just to break open and verify that a working private key does exist! Like the Cut-and-Choose Protocol! (Doing this means you don't trust the maker of the art so there's really no need to buy the art in the first place! Instead please let someone else own it!) This technique in cryptography is called cut-and-choose and is used a lot in multiparty computation. Crépeau C. (2005) Cut-and-choose protocol. In: van Tilborg H.C.A. (eds) Encyclopedia of Cryptography and Security. Springer, Boston, MA . https://doi.org/10.1007/0-387-23483-7_92
+Buy a 3rd unit just to break open and verify that a working private key does exist! Like the Cut-and-Choose Protocol! (Doing this means you don't trust the maker of the art so there's really no need to buy the art in the first place! Instead please let someone else own it!) This technique in cryptography is called cut-and-choose and is used a lot in multiparty computation. Crépeau C. (2005) [Cut-and-choose protocol](https://doi.org/10.1007/0-387-23483-7_92) In: van Tilborg H.C.A. (eds) Encyclopedia of Cryptography and Security. Springer, Boston, MA.
 
 ## CAUTION:
 Do not send ZEC to the artwork that you cannot afford to lose.
-CryptoCabochon is an experimental art project sold as a final sale without returns or warranty. Please ask away questions at z2z.to/CryptoCabochon or Twitter @CryptoCabochon
+CryptoCabochon is an experimental art project sold as a final sale without returns or warranty. Please ask away questions at [z2z.to/CryptoCabochon](https://z2z.to/CryptoCabochon) or [Twitter](https://twitter.com/CryptoCabochon)
