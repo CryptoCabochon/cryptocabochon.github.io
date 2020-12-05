@@ -61,7 +61,7 @@ All units will be marked with serial numbers and sold on a first-come-first-serv
 Art collectors, ZEC whales/hodlers, and curious individuals who want to experiment with a locked up paper wallet.
 
 ## How do I place an order?
-Please send your alias, mailing address & phone number via a shielded memo to “zs1xm4mfqtgc3pewvlfzutr37707gtz8a4vmh27a85m3mgmrhtr0neugjz73e8uar4qj4ssjccwylf” along with 7 ZEC or 21 ZEC for the specific units to order. You will receive confirmation for your order within 48 hours or refund if the units are sold out. The availability of the ZEC Cabochons will be posted on the website. To obtain ZEC for making the purchase, see [Zcash echanges](https://z.cash/exchanges/)
+Please send your alias, mailing address & phone number via a shielded memo to **zs1xm4mfqtgc3pewvlfzutr37707gtz8a4vmh27a85m3mgmrhtr0neugjz73e8uar4qj4ssjccwylf** along with 7 ZEC or 21 ZEC for the specific units to order. You will receive confirmation for your order within 48 hours or refund if the units are sold out. The availability of the ZEC Cabochons will be posted on the website. To obtain ZEC for making the purchase, see [Zcash echanges](https://z.cash/exchanges/)
 
 e.g. If you want to place order for 2 units of 7 ZEC Cabochon, Send a memo "2 x 7 ZEC Cabochons for Markus Maximalus, 900 Boylston Ave, APT 101, Boston, MA 02115 USA +1 617 400 999" along with value of 14 ZEC to zs1xm4mfqtgc3pewvlfzutr37707gtz8a4vmh27a85m3mgmrhtr0neugjz73e8uar4qj4ssjccwylf
 
@@ -81,7 +81,6 @@ The only copy of the private key is present on the piece of paper inside the art
 The 70-80 character code you see on the back of the ZEC Cabochon is the Shielded Address. You can fund the ZEC Cabochon using the engraved public key.
 Zcash goes above and beyond other cryptocurrencies. With Zcash, you control what information you share. Shielded addresses and their associated balances are not visible on the blockchain. Only "viewing keys" can be used to share transaction details with trusted third parties for compliance or audits. There is a mathematical relationship between the shielded address and the private key inside. The Zcash is actually located on the public Zcash ledger which is decentralized across the internet and it is inaccessible to anyone unless the private key is imported into a compatible Zcash wallet software.
 
-
 ### Who is behind this project and what is the motivation?
 [@nighthawk24](https://twitter.com/nighthawk24) from Nighthawk Wallet is behind [CryptoCabochon](https://twitter.com/nighthawk24/status/1301377224508092417?s=20)
 The idea behind making the CryptoCabochon was the longing to have a physical object to hold cryptocurrency. [Cassacius coins](https://en.bitcoin.it/wiki/Casascius_physical_bitcoins) for Bitcoin were famously sold loaded up with Bitcoin and since then there haven't been options for non-Bitcoin marked artwork. CryptoCabochon was made to bring the virtual world to the physical world with a touch of art.
@@ -89,12 +88,8 @@ The idea behind making the CryptoCabochon was the longing to have a physical obj
 ### Can I resell it?
 Yes, as a buyer, you have full rights to resell the CryptoCabochon you own.
 
-How do I know there are no copies of the private keys?
-The purchase of CryptoCabochons requires trust in the artist and the key generation process.
-Keys were generated on a newly purchased laptop using zcashd command line tools and then printed on an offline laser printer on Xerox Bold Digital 100 White Brilliance 32lb acid free premium quality laser paper for longevity. 
-The private keys from the laptop have been deleted and the hard disk destroyed and dumped into several different garbage disposals after locking in the keys inside the artwork.
-No backups have been made and the only version of the private key is present on the paper inside the artwork.
-The units are sold unloaded and it is up to the sole discretion of the buyer to load the CryptoCabochon with ZEC.
+### How do I know there are no copies of the private keys?
+The purchase of CryptoCabochons requires trust in the artist(nighthawk24) and the key generation process. Private Keys were generated on a newly purchased laptop using zcashd command line tools and then printed on an offline laser printer on Xerox Bold Digital 100 White Brilliance 32lb acid free premium quality laser paper for longevity. The private keys from the laptop have been deleted and the hard disk destroyed and dumped into several different garbage disposals after locking in the keys inside the artwork. No backups have been made and the only version of the private key is present on the paper inside the artwork. The units are sold unloaded and it is up to the sole discretion of the buyer to load the CryptoCabochon with ZEC.
 
 ### How do I redeem the private keys?
 This step requires destroying the art to move the ZEC value out.
