@@ -1,7 +1,7 @@
 ---
 title:  "ZEC Cabochon"
 subtitle: "Crypto x Art collaboration with artist J.N. Shinde"
-author: ""
+author: "nighthawk24"
 image: "img/zec.jpg"
 date:   2012-12-04 12:34:56
 ---
