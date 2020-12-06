@@ -5,6 +5,8 @@ image: "img/zcf.jpg"
 date:   2012-12-04 12:34:56
 ---
 
+![ZEC Cabochons](/img/zcb.jpg "ZEC Cabochons")
+
 Introducing ZEC Cabochon, a Crypto x Art collaboration with artist J.N. Shinde and his Journey of life collection of paintings during the 1960s-80s in India.
 The ZEC Cabochon is carefully assembled by engineering a 6061 aluminium alloy bar to hold an archival quality print of the painting behind a Plexiglas™ enclosure & a Zcash Sapling (zs…) private key inside an anodized plate that is locked for permanence. The back of the plate has the corresponding z-address public key engraved.
 
@@ -52,7 +54,7 @@ The 21 ZEC marked CryptoCabochons are for sale for 21 ZEC each.
 The 7 ZEC marked CryptoCabochons are for sale for 7 ZEC each.
 Worldwide shipping & tracking (when possible) is included.
 
-### Q: Why is this not pre-funded?
+### Why is this not pre-funded?
 Selling pre-funded art is problematic in the US (and Casascius was warned by FinCEN that it requires a money transmitter license).
 
 NOTE: There are no plans to change the price of the 7 or 21 ZEC Cabochons even if the market value of ZEC fluctuates. The units are priced for final sale.
@@ -116,6 +118,16 @@ Buy 2 units, one to load up 7 or 21 ZEC to lock it in storage and second one to 
 
 ### Recommendation for paranoid ZEC hodlers:
 Buy a 3rd unit just to break open and verify that a working private key does exist! Like the Cut-and-Choose Protocol! (Doing this means you don't trust the maker of the art so there's really no need to buy the art in the first place! Instead please let someone else own it!) This technique in cryptography is called cut-and-choose and is used a lot in multiparty computation. Crépeau C. (2005) [Cut-and-choose protocol](https://doi.org/10.1007/0-387-23483-7_92) In: van Tilborg H.C.A. (eds) Encyclopedia of Cryptography and Security. Springer, Boston, MA.
+
+### Photos
+
+![Satoshi's Disciples Front](/img/sdh.jpg "Satoshi's Disciples")
+
+![Temple of Idolism](/img/tih.jpg "Temple of Idolism")
+
+![ZEC Cabochons side](/img/zs.jpg "ZEC Cabochons side")
+
+![Temple of Idolism packed](/img/tip.jpg "Temple of Idolism packed")
 
 ## CAUTION:
 Do not send ZEC to the artwork that you cannot afford to lose.
