@@ -17,6 +17,8 @@ For your privacy (and to enable interesting applications) the viewing key is not
 
 Units in edition: 57
 
+![Satoshi's disciples](/img/sd.png "Satoshi's disciples")
+
 Painting of people gathering in meatspace;
 
 A quiet place in the forest, I have named this Satoshi's disciples.
@@ -36,6 +38,8 @@ Zcash was born on October 28, 2016 by implementing innovations from zk-SNARK pro
 ## The 21 ZEC denominated Crypto Cabochon is titled "Temple of Idolism"
 
 Units in edition: 10
+
+![Temple of Idolism](/img/ti.png "Temple of Idolism")
 
 Look closely and you will see the details surrounding the wall with flowers in vase, petals, peacock feathers and chakras.
 
