@@ -1,7 +1,7 @@
 ---
 title:  "BCH Cabochon"
 subtitle: "Journey of life collection of paintings during the 1960s-80s in India"
-image: "img/pwbcb.png"
+image: "img/bcb.png"
 date:   2012-12-24 18:34:56
 ---
 
@@ -161,4 +161,4 @@ This technique in cryptography is called cut-and-choose and is used a lot in mul
 
 ### CAUTION:
 Do not send BCH to the artwork that you cannot afford to lose.
-CryptoCabochon is an experimental art project sold as a final sale without returns or warranty. Please DM your questions at [z2z.to/CryptoCabochon](https://z2z.to/CryptoCabochon), [Twitter @CryptoCabochon](https://twitter.com/CryptoCabochon) or [Email](mailto:cryptocabochon@protonmail.com)
+CryptoCabochon is an experimental art project sold as a final sale without returns or warranty. Please DM your questions at [Twitter @CryptoCabochon](https://twitter.com/CryptoCabochon) or [Email](mailto:cryptocabochon@protonmail.com)
