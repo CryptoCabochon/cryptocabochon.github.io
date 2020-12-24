@@ -67,7 +67,7 @@ All units will be marked with serial numbers and sold on a first-come-first-serv
 Art collectors, ZEC whales/hodlers, and curious individuals who want to experiment with a locked up paper wallet.
 
 ## How do I place an order?
-Please send your alias, mailing address & phone number via a shielded memo to zs1xm4mfqtgc3pewvlfzutr37707gtz8a4vmh27a85m3mgmrhtr0neugjz73e8uar4qj4ssjccwylf along with 7 ZEC or 21 ZEC for the specific units to order. You will receive confirmation for your order within 48 hours or refund if the units are sold out. The availability of the ZEC Cabochons will be posted on the website. To obtain ZEC for making the purchase, see [Zcash echanges](https://z.cash/exchanges/)
+Please send your alias, mailing address & phone number via a shielded memo to zs1xm4mfqtgc3pewvlfzutr37707gtz8a4vmh27a85m3mgmrhtr0neugjz73e8uar4qj4ssjccwylf along with 7 ZEC or 21 ZEC for the specific units to order. You will receive confirmation for your order within 48 hours or refund if the units are sold out. The availability of the ZEC Cabochons will be posted on the website. To obtain ZEC for making the purchase, see [Zcash exchanges](https://z.cash/exchanges/)
 
 e.g. If you want to place order for 2 units of 7 ZEC Cabochon, Send a memo "2 x 7 ZEC Cabochons for Markus Maximalus, 900 Boylston Ave, APT 101, Boston, MA 02115 USA +1 617 400 999" along with value of 14 ZEC to zs1xm4mfqtgc3pewvlfzutr37707gtz8a4vmh27a85m3mgmrhtr0neugjz73e8uar4qj4ssjccwylf
 
