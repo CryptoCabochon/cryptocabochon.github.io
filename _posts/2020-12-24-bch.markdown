@@ -1,11 +1,11 @@
 ---
 title:  "BCH Cabochon"
 subtitle: "Journey of life collection of paintings during the 1960s-80s in India"
-image: "img/pwbcb.jpg"
+image: "img/pwbcb.png"
 date:   2012-12-24 18:34:56
 ---
 
-![BCH Cabochons](/img/bcb.jpg "BCH Cabochons")
+![BCH Cabochons](/img/bcb.png "BCH Cabochons")
 
 Announcing BCH Cabochon, combining the first ever physical-NFT on BCH with art by J.N. Shinde from his Journey of life collection of paintings from the 1960s-80s India.
 
@@ -22,6 +22,8 @@ Since the addresses of the SLP tokens are public on the BCH chain, anyone can se
 
 Units in edition: 12
 
+[Place Order](https://commerce.coinbase.com/checkout/f65f43dc-328f-43f2-94af-87df61ab0253)
+
 ![Shivaji on Battlefield](/img/sbcf.png "Shivaji on Battlefield")
 ![](/img/sbcb.png "Shivaji on Battlefield Back")
 
@@ -31,6 +33,8 @@ Surrounding him are four groundsmen, making his presence known from afar and thr
 ## Temple of Idolism
 
 Units in edition: 10
+
+[Place Order](https://commerce.coinbase.com/checkout/6efdbf8e-85ed-47a9-abef-0d1d3a00ed31)
 
 ![Temple of Idolism](/img/tibcf.png "Temple of Idolism")
 ![](/img/tibcb.png "Temple of Idolism Back")
@@ -46,6 +50,8 @@ The art has depth in texture and a mystical magic about it!
 
 Units in edition: 12
 
+[Place Order](https://commerce.coinbase.com/checkout/a64232c5-00cc-4f94-bc47-9f897879f84e)
+
 ![Fort Gate](/img/fgbcf.png "Fort Gate")
 ![](/img/fgbcb.png "Fort Gate Back")
 
@@ -55,6 +61,8 @@ Built with numerous concentric walls, it has secret pathways, invisible passages
 ## Proof of Work
 
 Units in edition: 11
+
+[Place Order](https://commerce.coinbase.com/checkout/de45d5d5-97d9-4cb3-b2b8-4cf4c1d0e6df)
 
 ![Proof of Work](/img/pwbcf.png "Proof of Work")
 ![](/img/pwbcb.png "Proof of Work Back")
@@ -69,6 +77,8 @@ This artwork can be dissected to place a helper robot at the marketplace, negoti
 ![](/img/wwbcb.png "A wishing well back")
 
 Units in edition: 12
+
+[Place Order](https://commerce.coinbase.com/checkout/2d439f2c-56b2-474e-9a0f-95eeaa423974)
 
 The divine ancient tree is guarded by distinct heavenly beings in the lush green forest, under the control of Indra, King of gods.
 It is gold in color. It has a mesmerizing aura. It can be pleased with chanting and offerings. When it is pleased, it grants every wish.
@@ -86,7 +96,7 @@ All units will be marked with serial numbers from 1-57 and sold on a first-come-
 
 ### How do I place an order?
 Direct payments via BCH, DAI & USDC are accepted via the buttons below each artwork.
-Following a successful transaction, an email requesting the delivery address will be sent out for shipping the units with a 1-2 week delivery time frame.
+Following a successful transaction, an email requesting the delivery address will be sent out for shipping the units within a 1-2 week delivery time frame.
 
 ### How do I use it?
 Each unit comes with a BCH Cash Address public key engraved on the back of the unit.
@@ -139,15 +149,15 @@ This technique in cryptography is called cut-and-choose and is used a lot in mul
 
 ### Packaging Photos
 
-![Shivaji on Battlefield pack](/img/spbc.jpg "Satoshi's Disciples")
+![Shivaji on Battlefield pack](/img/spbc.png "Satoshi's Disciples")
 
-![Temple of Idolism pack](/img/tipbc.jpg "Temple of Idolism")
+![Temple of Idolism pack](/img/tipbc.png "Temple of Idolism")
 
-![Fort Gate pack](/img/fgpbc.jpg "Fort Gate")
+![Fort Gate pack](/img/fgpbc.png "Fort Gate")
 
-![Proof of Work pack](/img/pwpbc.jpg "Proof of Work")
+![Proof of Work pack](/img/pwpbc.png "Proof of Work")
 
-![A wishing well pack](/img/wwpbc.jpg "A wishing well")
+![A wishing well pack](/img/wwpbc.png "A wishing well")
 
 ### CAUTION:
 Do not send BCH to the artwork that you cannot afford to lose.
