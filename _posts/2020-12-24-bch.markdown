@@ -24,20 +24,17 @@ Units in edition: 12
 
 [Place Order](https://commerce.coinbase.com/checkout/f65f43dc-328f-43f2-94af-87df61ab0253)
 
-![Shivaji on Battlefield](/img/sbcf.png "Shivaji on Battlefield")
-![](/img/sbcb.png "Shivaji on Battlefield Back")
-
 Painting of King Shivaji riding on his battle decorated horse named Krishna while holding Bhawani Talwar(sword).
 Surrounding him are four groundsmen, making his presence known from afar and through the starry branched treescape.
+
+![Shivaji on Battlefield](/img/sbcf.png "Shivaji on Battlefield")
+![](/img/sbcb.png "Shivaji on Battlefield Back")
 
 ## Temple of Idolism
 
 Units in edition: 10
 
 [Place Order](https://commerce.coinbase.com/checkout/6efdbf8e-85ed-47a9-abef-0d1d3a00ed31)
-
-![Temple of Idolism](/img/tibcf.png "Temple of Idolism")
-![](/img/tibcb.png "Temple of Idolism Back")
 
 Welcome to the Temple of Idolism. Look closely and you will see the details surrounding the wall with flowers in vase, petals, peacock feathers and chakras.
 The art has depth in texture and a mystical magic about it!
@@ -46,17 +43,20 @@ Look closely and you will see the details surrounding the wall with flowers in v
 
 The art has depth in texture and a mystical magic about it!
 
+![Temple of Idolism](/img/tibcf.png "Temple of Idolism")
+![](/img/tibcb.png "Temple of Idolism Back")
+
 ## Fort Gate
 
 Units in edition: 12
 
 [Place Order](https://commerce.coinbase.com/checkout/a64232c5-00cc-4f94-bc47-9f897879f84e)
 
-![Fort Gate](/img/fgbcf.png "Fort Gate")
-![](/img/fgbcb.png "Fort Gate Back")
-
 A grandiose fort gate on a sunny day.
 Built with numerous concentric walls, it has secret pathways, invisible passages and open balconies where claps can echo to be heard from a kilometer away!
+
+![Fort Gate](/img/fgbcf.png "Fort Gate")
+![](/img/fgbcb.png "Fort Gate Back")
 
 ## Proof of Work
 
@@ -64,25 +64,29 @@ Units in edition: 11
 
 [Place Order](https://commerce.coinbase.com/checkout/de45d5d5-97d9-4cb3-b2b8-4cf4c1d0e6df)
 
+A work of Cubism, an artform that was the most influential visual art style from the early twentieth century.
+
+Just like Proof of Work mining, which might be the most influential consensus mechanism of the early twenty-first century.
+
+This artwork can be dissected to place a helper robot at the marketplace, negotiating a bag of prize in return for submitting a math solution to the woman at the counter, making the proof of work worth it.
+
 ![Proof of Work](/img/pwbcf.png "Proof of Work")
 ![](/img/pwbcb.png "Proof of Work Back")
 
-A work of Cubism, an artform that was the most influential visual art style from the early twentieth century.
-Just like Proof of Work mining, which might be the most influential consensus mechanism of the early twenty-first century.
-This artwork can be dissected to place a helper robot at the marketplace, negotiating a bag of prize in return for submitting a math solution to the woman at the counter, making the proof of work worth it.
-
 ## A wishing well
-
-![A wishing well](/img/wwbcf.png "A wishing well")
-![](/img/wwbcb.png "A wishing well back")
 
 Units in edition: 12
 
 [Place Order](https://commerce.coinbase.com/checkout/2d439f2c-56b2-474e-9a0f-95eeaa423974)
 
 The divine ancient tree is guarded by distinct heavenly beings in the lush green forest, under the control of Indra, King of gods.
+
 It is gold in color. It has a mesmerizing aura. It can be pleased with chanting and offerings. When it is pleased, it grants every wish.
+
 Or is it just a wishing well?
+
+![A wishing well](/img/wwbcf.png "A wishing well")
+![](/img/wwbcb.png "A wishing well back")
 
 ## FAQs:
 
