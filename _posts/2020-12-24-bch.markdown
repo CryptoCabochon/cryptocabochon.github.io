@@ -117,7 +117,7 @@ There is a mathematical relationship between the public address and the private 
 
 ### Who is behind this project and what is the motivation?
 @nighthawk24 is behind the [CryptoCabochon project](https://twitter.com/nighthawk24/status/1301377224508092417?s=20)
-The idea behind making the CryptoCabochon was the longing to have a physical object to hold cryptocurrency. [Cassacius coins](https://en.bitcoin.it/wiki/Casascius_physical_bitcoins) for Bitcoin were famously sold loaded up with Bitcoin and since then there haven't been options for non-Bitcoin marked artwork. CryptoCabochon was made to bring the virtual world to the physical world with a touch of art.
+The idea behind making the CryptoCabochon was the longing to have a physical object to hold cryptocurrency. [Cassacius coins](https://en.bitcoin.it/wiki/Casascius_physical_bitcoins) for Bitcoin were famously sold loaded up with Bitcoin and since then there haven't been options for non-Bitcoin marked artwork. CryptoCabochon was made to bring the cryptographic proofs to the physical world with a touch of art spanning across generations.
 
 ### Can I resell it?
 Yes, as a buyer, you have full rights to resell the CryptoCabochon you own.
