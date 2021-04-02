@@ -13,7 +13,9 @@ The BCH Cabochon is carefully assembled by engineering a 6061 aluminium alloy ba
 
 The unit’s enclosure is anodized with a matte gold color & engraved with the BCH logo, a “1 BCH” marking and the Bitcoin genesis block hex & message which it shares with competing Bitcoin implementations. And on the top, a SWAROVSKI™ 1088 CHATON Crystal in various colors like red, blue or purple shines to add to the precious element of Bitcoin Cash’s scarcity & the limited minting of the Crypto Cabochon SLP token.
 
-Each BCH Cabochon holds the SLP token for Crypto Cabochon with a limited minting of 57 tokens, 1 for each unit. [CryptoCabochon NFT](https://simpleledger.info/token/0adfc96217e8c2383bb4a4733716739cbf48302721bfcc6bbcc18ee8ed191a5b) 
+Each BCH Cabochon holds the SLP token for Crypto Cabochon with a limited minting of 57 tokens, 1 for each unit. [CryptoCabochon NFT](https://simpleledger.info/token/0adfc96217e8c2383bb4a4733716739cbf48302721bfcc6bbcc18ee8ed191a5b)
+
+And since each Cabochon has a Bitcoin Cash address associated with it, the cabochons can be used as a permanent vault to store NFTs minted on the SLP chain!
 
 NOTE: The units are sold unloaded and do not contain BCH cryptocurrency.
 Since the addresses of the SLP tokens are public on the BCH chain, anyone can send value & SLP tokens to the BCH Cabochons.
@@ -21,8 +23,8 @@ Since the addresses of the SLP tokens are public on the BCH chain, anyone can se
 ## Shivaji on Battlefield
 
 Units in edition: 12
-
-[Place Order](https://commerce.coinbase.com/checkout/f65f43dc-328f-43f2-94af-87df61ab0253)
+Artist Reserve: 2
+Available for Sale: 10
 
 Painting of King Shivaji riding on his battle decorated horse named Krishna while holding Bhawani Talwar(sword).
 Surrounding him are four groundsmen, making his presence known from afar and through the starry branched treescape.
@@ -33,8 +35,7 @@ Surrounding him are four groundsmen, making his presence known from afar and thr
 ## Temple of Idolism
 
 Units in edition: 10
-
-[Place Order](https://commerce.coinbase.com/checkout/6efdbf8e-85ed-47a9-abef-0d1d3a00ed31)
+Available for Sale: 10
 
 Welcome to the Temple of Idolism. Look closely and you will see the details surrounding the wall with flowers in vase, petals, peacock feathers and chakras.
 The art has depth in texture and a mystical magic about it!
@@ -49,8 +50,8 @@ The art has depth in texture and a mystical magic about it!
 ## Fort Gate
 
 Units in edition: 12
-
-[Place Order](https://commerce.coinbase.com/checkout/a64232c5-00cc-4f94-bc47-9f897879f84e)
+Artist Reserve: 2
+Available for Sale: 10
 
 A grandiose fort gate on a sunny day.
 Built with numerous concentric walls, it has secret pathways, invisible passages and open balconies where claps can echo to be heard from a kilometer away!
@@ -61,8 +62,8 @@ Built with numerous concentric walls, it has secret pathways, invisible passages
 ## Proof of Work
 
 Units in edition: 11
-
-[Place Order](https://commerce.coinbase.com/checkout/de45d5d5-97d9-4cb3-b2b8-4cf4c1d0e6df)
+Artist Reserve: 1
+Available for Sale: 10
 
 A work of Cubism, an artform that was the most influential visual art style from the early twentieth century.
 
@@ -76,8 +77,8 @@ This artwork can be dissected to place a helper robot at the marketplace, negoti
 ## A wishing well
 
 Units in edition: 12
-
-[Place Order](https://commerce.coinbase.com/checkout/2d439f2c-56b2-474e-9a0f-95eeaa423974)
+Artist Reserve: 2
+Available for Sale: 10
 
 The divine ancient tree is guarded by distinct heavenly beings in the lush green forest, under the control of Indra, King of gods.
 
@@ -91,16 +92,12 @@ Or is it just a wishing well?
 ## FAQs:
 
 ### How much does it cost?
-Each BCH Cabochon costs $499 and is available for purchase in BCH, DAI or USDC.
+Each BCH Cabochon costs $500 and will soon be available for purchase.
 Worldwide shipping & tracking (when possible) is included.
 
 ### How many units will be made?
 A limited run of 10 to 12 of each BCH Cabochons as mentioned below the descriptions.
 All units will be marked with serial numbers from 1-57 and sold on a first-come-first-serve basis.
-
-### How do I place an order?
-Direct payments via BCH, DAI & USDC are accepted via the buttons below each artwork.
-Following a successful transaction, an email requesting the delivery address will be sent out for shipping the units within a 1-2 week delivery time frame.
 
 ### How do I use it?
 Each unit comes with a BCH Cash Address public key engraved on the back of the unit.
@@ -117,7 +114,9 @@ There is a mathematical relationship between the public address and the private 
 
 ### Who is behind this project and what is the motivation?
 @nighthawk24 is behind the [CryptoCabochon project](https://twitter.com/nighthawk24/status/1301377224508092417?s=20)
-The idea behind making the CryptoCabochon was the longing to have a physical object to hold cryptocurrency. [Cassacius coins](https://en.bitcoin.it/wiki/Casascius_physical_bitcoins) for Bitcoin were famously sold loaded up with Bitcoin and since then there haven't been options for non-Bitcoin marked artwork. CryptoCabochon was made to bring the cryptographic proofs to the physical world with a touch of art spanning across generations.
+The idea behind making the CryptoCabochon was the longing to have a physical object to hold cryptocurrency. [Cassacius coins](https://en.bitcoin.it/wiki/Casascius_physical_bitcoins) for Bitcoin were famously sold loaded up with Bitcoin and since then there haven't been options for non-Bitcoin marked artwork. Kialara pieces were an inspiration to the design too with the front facing artist print.
+
+CryptoCabochon was made to bring the cryptographic proofs to the physical world with a touch of art spanning across generations.
 
 ### Can I resell it?
 Yes, as a buyer, you have full rights to resell the CryptoCabochon you own.
@@ -164,5 +163,5 @@ This technique in cryptography is called cut-and-choose and is used a lot in mul
 ![A wishing well pack](/img/wwpbc.png "A wishing well")
 
 ### CAUTION:
-Do not send BCH to the artwork that you cannot afford to lose.
+Do not send BCH/SLP tokens to the artwork that you cannot afford to lose.
 CryptoCabochon is an experimental art project sold as a final sale without returns or warranty. Please DM your questions at [Twitter @CryptoCabochon](https://twitter.com/CryptoCabochon) or [Email](mailto:cryptocabochon@protonmail.com)
