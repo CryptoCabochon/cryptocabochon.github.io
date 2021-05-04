@@ -22,8 +22,6 @@ Available for Sale: 34 (as of April 1, 2021)
 
 ![Satoshi's disciples](/img/sd.png "Satoshi's disciples")
 
-[Place Order](https://commerce.coinbase.com/checkout/69f577a1-29e4-4f44-9427-11b823a8de9e)
-
 Painting of people gathering in meatspace;
 
 A quiet place in the forest, I have named this Satoshi's disciples.
@@ -44,8 +42,6 @@ Zcash was born on October 28, 2016 by implementing innovations from zk-SNARK pro
 
 Units in edition: 10
 Available for Sale: 5 (as of April 1, 2021)
-
-[Place Order](https://commerce.coinbase.com/checkout/b165fcc8-503d-481e-a6d4-a9629a683ce9)
 
 ![Satoshi's disciples](/img/ti.png "Temple of Idolism")
 
@@ -74,9 +70,7 @@ Art collectors, ZEC whales/hodlers, and curious individuals who want to experime
 
 ## How do I place an order?
 
-### Order Option 1) Pay via DAI, USDC or BCH by clicking on the "Place Order" link.Following a successful transaction, an email requesting the delivery address will be sent out for shipping the units within a 1-2 week delivery time frame.
-
-### Order Option 2) z2z
+### Order z2z
 Please send your alias, mailing address & phone number via a shielded memo to zs1xm4mfqtgc3pewvlfzutr37707gtz8a4vmh27a85m3mgmrhtr0neugjz73e8uar4qj4ssjccwylf along with 7 ZEC or 21 ZEC for the specific units to order. You will receive confirmation for your order within 7 days or refund if the units are sold out. The availability of the ZEC Cabochons will be posted on the website. To obtain ZEC for making the purchase, see [Zcash exchanges](https://z.cash/exchanges/)
 
 e.g. If you want to place order for 2 units of 7 ZEC Cabochon, Send a memo "2 x 7 ZEC Cabochons for Markus Maximalus, 900 Boylston Ave, APT 101, Boston, MA 02115 USA +1 617 400 999" along with value of 14 ZEC to zs1xm4mfqtgc3pewvlfzutr37707gtz8a4vmh27a85m3mgmrhtr0neugjz73e8uar4qj4ssjccwylf
