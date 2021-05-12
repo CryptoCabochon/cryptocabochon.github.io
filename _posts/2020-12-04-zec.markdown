@@ -18,7 +18,7 @@ For your privacy (and to enable interesting applications) the viewing key is not
 ## The 7 ZEC denominated Crypto Cabochon
 
 Units in edition: 57
-Available for Sale: 34 (as of April 1, 2021)
+Available for Sale: 27 (as of May 12, 2021)
 
 ![Satoshi's disciples](/img/sd.png "Satoshi's disciples")
 
@@ -41,9 +41,9 @@ Zcash was born on October 28, 2016 by implementing innovations from zk-SNARK pro
 ## The 21 ZEC denominated Crypto Cabochon is titled "Temple of Idolism"
 
 Units in edition: 10
-Available for Sale: 5 (as of April 1, 2021)
+Available for Sale: 5 (as of May 12, 2021)
 
-![Satoshi's disciples](/img/ti.png "Temple of Idolism")
+![Temple of Idolism](/img/ti.png "Temple of Idolism")
 
 Look closely and you will see the details surrounding the wall with flowers in vase, petals, peacock feathers and chakras.
 
