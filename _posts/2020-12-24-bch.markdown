@@ -24,7 +24,6 @@ Since the addresses of the SLP tokens are public on the BCH chain, anyone can se
 
 Units in edition: 12
 Artist Reserve: 2
-Available for Sale: 10
 
 Painting of King Shivaji riding on his battle decorated horse named Krishna while holding Bhawani Talwar(sword).
 Surrounding him are four groundsmen, making his presence known from afar and through the starry branched treescape.
@@ -35,7 +34,6 @@ Surrounding him are four groundsmen, making his presence known from afar and thr
 ## Temple of Idolism
 
 Units in edition: 10
-Available for Sale: 10
 
 Welcome to the Temple of Idolism. Look closely and you will see the details surrounding the wall with flowers in vase, petals, peacock feathers and chakras.
 The art has depth in texture and a mystical magic about it!
@@ -51,7 +49,6 @@ The art has depth in texture and a mystical magic about it!
 
 Units in edition: 12
 Artist Reserve: 2
-Available for Sale: 10
 
 A grandiose fort gate on a sunny day.
 Built with numerous concentric walls, it has secret pathways, invisible passages and open balconies where claps can echo to be heard from a kilometer away!
@@ -63,7 +60,6 @@ Built with numerous concentric walls, it has secret pathways, invisible passages
 
 Units in edition: 11
 Artist Reserve: 1
-Available for Sale: 10
 
 A work of Cubism, an artform that was the most influential visual art style from the early twentieth century.
 
@@ -78,7 +74,6 @@ This artwork can be dissected to place a helper robot at the marketplace, negoti
 
 Units in edition: 12
 Artist Reserve: 2
-Available for Sale: 10
 
 The divine ancient tree is guarded by distinct heavenly beings in the lush green forest, under the control of Indra, King of gods.
 

@@ -18,7 +18,6 @@ For your privacy (and to enable interesting applications) the viewing key is not
 ## The 7 ZEC denominated Crypto Cabochon
 
 Units in edition: 57
-Available for Sale: 27 (as of May 12, 2021)
 
 ![Satoshi's disciples](/img/sd.png "Satoshi's disciples")
 
@@ -41,7 +40,6 @@ Zcash was born on October 28, 2016 by implementing innovations from zk-SNARK pro
 ## The 21 ZEC denominated Crypto Cabochon is titled "Temple of Idolism"
 
 Units in edition: 10
-Available for Sale: 5 (as of May 12, 2021)
 
 ![Temple of Idolism](/img/ti.png "Temple of Idolism")
 
@@ -69,13 +67,7 @@ All units will be marked with serial numbers and sold on a first-come-first-serv
 Art collectors, ZEC whales/hodlers, and curious individuals who want to experiment with a locked up paper wallet.
 
 ## How do I place an order?
-
-### Order z2z
-Please send your alias, mailing address & phone number via a shielded memo to zs1xm4mfqtgc3pewvlfzutr37707gtz8a4vmh27a85m3mgmrhtr0neugjz73e8uar4qj4ssjccwylf along with 7 ZEC or 21 ZEC for the specific units to order. You will receive confirmation for your order within 7 days or refund if the units are sold out. The availability of the ZEC Cabochons will be posted on the website. To obtain ZEC for making the purchase, see [Zcash exchanges](https://z.cash/exchanges/)
-
-e.g. If you want to place order for 2 units of 7 ZEC Cabochon, Send a memo "2 x 7 ZEC Cabochons for Markus Maximalus, 900 Boylston Ave, APT 101, Boston, MA 02115 USA +1 617 400 999" along with value of 14 ZEC to zs1xm4mfqtgc3pewvlfzutr37707gtz8a4vmh27a85m3mgmrhtr0neugjz73e8uar4qj4ssjccwylf
-
-e.g. If you want to place order for 1 unit of 7 ZEC & 1 unit of 21 ZEC(and ask artist to purge viewing key), Send a memo "1 x 7 ZEC (keep viewing key), 1 x 21 ZEC Cabochon (purge viewing key) for Akiara Ube, 9392-1146, Akasaka Akasakabizutawa(18-kai), Minato-ku, Tokyo, 107-6318 JAPAN +81 9038402790" along with value of 28 ZEC to zs1xm4mfqtgc3pewvlfzutr37707gtz8a4vmh27a85m3mgmrhtr0neugjz73e8uar4qj4ssjccwylf
+ZEC Cabochons are no longer for sale.
 
 ### How do I use it?
 Each unit comes with a shielded public key engraved on the back of the unit and a viewing key on a paper.
